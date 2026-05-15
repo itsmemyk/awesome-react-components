@@ -161,6 +161,7 @@ Please review our [contributing guidelines](https://github.com/brillout/awesome-
 - [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
 - [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
 - [simple-table](https://github.com/petera2c/simple-table) - [demo](https://www.simple-table.com/examples) - [docs](https://www.simple-table.com/docs) - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.
+- [react-tree-grid](https://github.com/itsmemyk/react-tree-grid) - [demo/docs](https://itsmemyk.github.io/react-tree-grid/) - High-performance Grid, Tree, and TreeGrid for React with sorting, grouping, drag-to-group, virtualization, and frozen columns
 
 - [KendoReact Grid](https://www.telerik.com/kendo-react-ui/components/grid/) - Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.
 
